@@ -33,16 +33,17 @@ Now Activate Microsoft Products Safely &amp; Free of Cost
 
 ----------------------------------------------------------------------------------------------------
 
-
+<br>
 
 How to Use :
 =============
+
+
 
 Step 1: Download MicroSoft_Activator
 
 Step 2: Run this program (Run as Administrator)
 
-----------------------------------------------------------------------------------------------------
  ![sdf](https://user-images.githubusercontent.com/37971771/118632613-39844000-b7ee-11eb-8f67-16db5f4915c7.png)
 ----------------------------------------------------------------------------------------------------
 
@@ -54,9 +55,12 @@ Step 5: Done! Your Windows Got Activated 😲
 
 
 ----------------------------------------------------------------------------------------------------
-Select other options from given menu for Activating MsOffice and otherwise. 😈
+
+Select other options from given menu for Activating MsOffice. 😈
+
 ----------------------------------------------------------------------------------------------------
 </br> 
+
 
 
                                   Thankyou for Scrolling this long 🍻
