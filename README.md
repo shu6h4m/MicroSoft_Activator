@@ -49,7 +49,7 @@ Step 2: Run this program (Run as Administrator)
 
 Step 3: Press 4 if you wants to Activate Windows
 
-Step 4: Wait for few seconds
+Step 4: Press 1 and wait for few seconds
 
 Step 5: Done! Your Windows Got Activated 😲
 
