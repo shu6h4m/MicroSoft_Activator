@@ -45,13 +45,29 @@ Step 1: Download MicroSoft_Activator
 Step 2: Run this program (Run as Administrator)
 
  ![sdf](https://user-images.githubusercontent.com/37971771/118632613-39844000-b7ee-11eb-8f67-16db5f4915c7.png)
-----------------------------------------------------------------------------------------------------
+
 
 Step 3: Press 4 if you wants to Activate Windows
 
 Step 4: Press 1 and wait for few seconds
 
 Step 5: Done! Your Windows Got Activated 😲
+
+<hr>
+
+<b>Another Method </b>( in case, Windows Defender Declares it as Virus ) :
+
+Step 1 : Select all text from <a href="https://raw.githubusercontent.com/shu6h4m/MicroSoft_Activator/main/Microsoft%20Activator.cmd">This File </a>and copy it.
+
+Step 2: Create a New Text Document on your drive or Desktop
+
+Step 3: Paste the copied text in this New Text Document and Save As MicroSoft.cmd (File type : All Files)
+
+Step 4: Run the saved file
+
+Step 5: Press 4 then Press 1 and Wait
+
+Step 6: Congratulations Yor Windows And Office Got Activated !! 🐣
 
 
 ----------------------------------------------------------------------------------------------------
