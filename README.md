@@ -26,7 +26,7 @@ Now Activate Microsoft Products Safely &amp; Free of Cost
    To achieve this We have used many other <i><b>Open Source</b></i> activators and projects as the base of this activator.
    
    Our Team : <a href="https://www.instagram.com/amar_7148/"> Amar </a>|<a href="https://www.instagram.com/ankujpandey/"> Ankuj </a>|
-<a href="https://www.instagram.com/ronak7661/"> Gurdeep </a>|<a href="https://www.instagram.com/prateek_ak47/"> Prateek </a>|<a href="https://www.instagram.com/rksambhariya/"> Rohit </a>|<a href="https://www.instagram.com/shivamdixit_478/">  Shivam</a>|<a href="https://www.instagram.com/shu6h4m/">  Shubham</a>
+<a href="https://www.instagram.com/ronak7661/"> Gurdeep </a>|<a href="https://www.instagram.com/prateek_ak47/"> Prateek </a>|<a href="https://www.instagram.com/rksambhariya/"> Rohit </a>|<a href="https://www.instagram.com/shivamdixit_478/">  Shivam </a>|<a href="https://www.instagram.com/shu6h4m/">  Shubham</a>
    
    
 ----------------------------------------------------------------------------------------------------
