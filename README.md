@@ -11,7 +11,7 @@ Now Activate Microsoft Products Safely &amp; Free of Cost
    using HWID / KMS38 / Online KMS activation methods with a focus on open-source code,
    less antivirus detection and user-friendliness.
 
-   In this script, We mostly used other honourable developer's tools and scripts.
+   In this script, We mostly used other honourable developer's tools and scripts. 
    
 
    Contact : -
