@@ -2,7 +2,7 @@ Now Activate Microsoft Products Safely &amp; Free of Cost
 
 
 
-::: Assigned by Yogendra Meena Sir :::
+::: Assigned by Yogendra Meena Sir ::: 
 =====
 
    Microsoft Activator by <b>Shubham & Team</b> (Modified version of many Windows and MSOffice Activator): 
