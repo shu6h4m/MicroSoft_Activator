@@ -3,7 +3,7 @@ Now Activate Microsoft Products Safely &amp; Free of Cost
  
 
 ::: Assigned by Yogendra Meena Sir :::   
-=====
+=====  
 
    Microsoft Activator by <b>Shubham & Team</b> (Modified version of many Windows and MSOffice Activator): 
 
@@ -66,9 +66,9 @@ Step 2: Create a New Text Document on your drive or Desktop
 
 Step 3: Paste the copied text in this New Text Document and Save As MicroSoft.cmd (File type : All Files)
 
-Step 4: Run the saved file
+Step 4: Run the saved file.
 
-Step 5: Press 4 then Press 1 and Wait
+Step 5: Press 4 then Press 1 and Wait.
 
 Step 6: Congratulations Yor Windows And Office Got Activated !! 🐣
 
