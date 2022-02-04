@@ -1,4 +1,4 @@
-Now Activate Microsoft Products Safely &amp; Free of Cost 
+Now Activate Microsoft Products Safely &amp; Free of Cost
 
  
    Microsoft Activator by <b>Shubham & Team</b> (Modified version of many Windows and MSOffice Activator): 
