@@ -66,7 +66,7 @@ Step 4: Run the saved file.
 
 Step 5: Press 4 then Press 1 and Wait.
 
-Step 6: Congratulations Yor Windows And Office Got Activated !! 🐣
+Step 6: Congratulations Yor Windows And Office Got Activated !! 🐣 
 
 
 
